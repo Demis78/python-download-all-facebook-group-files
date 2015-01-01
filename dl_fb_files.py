@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from facepy import GraphAPI
 import json
 import requests
